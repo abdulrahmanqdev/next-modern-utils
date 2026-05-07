@@ -152,10 +152,4 @@ Bu proje açık kaynaklıdır ve [MIT Lisansı](LICENSE) kapsamında sunulmaktad
 
 ## 👤 Geliştirici
 
-**abdulrahmanqdev**
-
-<p>
-  <a href="https://github.com/abdulrahmanqdev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+**@abdulrahmanqdev**
